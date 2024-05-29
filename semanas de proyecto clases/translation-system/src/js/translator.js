@@ -1,7 +1,7 @@
 import i18next from 'i18next';
 import Backend from 'i18next-http-backend'
 
-let language
+let language 
 
 if (localStorage.getItem('favoriteLanguage')) {
     language = localStorage.getItem('favoriteLanguage')

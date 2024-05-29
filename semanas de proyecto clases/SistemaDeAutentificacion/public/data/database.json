@@ -6,41 +6,6 @@
       "lastName": "example",
       "email": "example@example.com",
       "password": "123"
-    },
-    {
-      "id": "d8de",
-      "userName": "1059697487",
-      "lastName": "Pablo",
-      "email": "jcomte23@gmail.com",
-      "password": "123"
-    },
-    {
-      "id": "f081",
-      "userName": "dsa",
-      "lastName": "Combita",
-      "email": "jcomte23@gmail",
-      "password": "1234"
-    },
-    {
-      "id": "a5a6",
-      "userName": "1059697487",
-      "lastName": "Combita",
-      "email": "sadca@gmial.com",
-      "password": "1234"
-    },
-    {
-      "id": "513e",
-      "userName": "1059697487",
-      "lastName": "asd",
-      "email": "gomezjuanzero@gmail.com",
-      "password": "1234"
-    },
-    {
-      "id": "2b40",
-      "userName": "1059697487",
-      "lastName": "Pablo",
-      "email": "gomezjuanzehjro@gmail.com",
-      "password": "1234"
     }
   ]
 }

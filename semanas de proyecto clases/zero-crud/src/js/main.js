@@ -29,12 +29,8 @@ form.addEventListener("submit", function (event) {
         showSmallAlertSuccess("editado")
         idParaActualizar = undefined
     }
-
     form.reset()
     withForEach(coders, tbody)
-
-
-
 })
 
 table.addEventListener("click", function (event) {
@@ -47,7 +43,7 @@ table.addEventListener("click", function (event) {
 
     if (event.target.classList.contains("btn-warning")) {
         idParaActualizar = event.target.getAttribute("data-id") // estoy accsediendo al id que contiene el boton
-        const userFound = coders.find(coder => coder.id == idParaActualizar) // busca al coder y estrae los datos
+        const userFound = coders.find(coder => coder.id == idParaActualizar) // busca al coder y extrae los datos
 
         // estamos pasando los datos extraidos en userFoud al formulario
         name.value = userFound.name
