@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "camilo",
+      "password": "123"
+    }
+  ],
+  "trabajos": [
+    {
+      "id": "5",
+      "titulo": "ssss",
+      "descripcion": "ssss",
+      "modalidad": "Tiempo completo"
+    },
+    {
+      "id": "7",
+      "titulo": "dddd",
+      "descripcion": "dddd",
+      "modalidad": "Medio tiempo"
+    },
+    {
+      "id": "0457",
+      "titulo": "ddddddd",
+      "descripcion": "camilo camilo",
+      "modalidad": "Prácticas"
+    },
+    {
+      "id": "7db1",
+      "titulo": "shirly ",
+      "descripcion": "devops",
+      "modalidad": "Tiempo completo"
+    },
+    {
+      "id": "737e",
+      "titulo": "ddd",
+      "descripcion": "ddd",
+      "modalidad": "Tiempo completo"
+    }
+  ]
+}

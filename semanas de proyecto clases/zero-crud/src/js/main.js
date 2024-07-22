@@ -13,7 +13,7 @@ const name = document.querySelector("#name")
 const lastName = document.querySelector("#last-name")
 const email = document.querySelector("#email")
 const form = document.querySelector("form")
-let idParaActualizar 
+let idParaActualizar
 
 withForEach(coders, tbody)
 

@@ -1,5 +1,5 @@
 // llamar formularios
-const form = document.getElementById("register-form");
+const form = document.getElementById("register-form");  
 // llamar imput
 
 const userName = document.getElementById("username");

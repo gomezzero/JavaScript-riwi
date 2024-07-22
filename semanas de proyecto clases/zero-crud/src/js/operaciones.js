@@ -41,17 +41,15 @@ export function coderDelet(idParaEliminar, coders) {
             coders.splice(withForEach, 1)
         }
     })
-
 }
 
 // actualiza un coder de la lista
-
-export function coderEditar(name, lastName, email, idParaActualizar, coders){
-        for (const coder of coders) {
-            if (coder.id == idParaActualizar){
-                coder.name = name.value
-                coder.lastName = lastName.value
-                coder.email = email.value
-            } 
+export function coderEditar(name, lastName, email, idParaActualizar, coders) {
+    for (const coder of coders) {
+        if (coder.id == idParaActualizar) {
+            coder.name = name.value
+            coder.lastName = lastName.value
+            coder.email = email.value
         }
     }
+}
